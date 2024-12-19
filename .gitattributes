@@ -2,3 +2,4 @@
 * text=auto
 datainbreif/*.xlsx filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
+KOLs_datasets.xlsx filter=lfs diff=lfs merge=lfs -text
